@@ -1,0 +1,18 @@
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\AnvilTotalPriceCalcExcercise\AnvilTotalPriceCalcExcercise\bin\Debug\AnvilTotalPriceCalcExcercise.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\AnvilTotalPriceCalcExcercise\AnvilTotalPriceCalcExcercise\bin\Debug\AnvilTotalPriceCalcExcercise.pdb
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\AnvilTotalPriceCalcExcercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.csprojResolveAssemblyReference.cache
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\AnvilTotalPriceCalcExcercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\AnvilTotalPriceCalcExcercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\AnvilTotalPriceCalcExcercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.pdb
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\HW3.01Excercise\AnvilTotalPriceCalcExcercise\bin\Debug\AnvilTotalPriceCalcExcercise.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\HW3.01Excercise\AnvilTotalPriceCalcExcercise\bin\Debug\AnvilTotalPriceCalcExcercise.pdb
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.csprojResolveAssemblyReference.cache
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.dll
+C:\Users\denni\OneDrive\2018.01 ISIT 324\Programs\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.pdb
+C:\Users\JerryLin\Downloads\HW3.01Excercise\HW3.01Excercise\AnvilTotalPriceCalcExcercise\bin\Debug\AnvilTotalPriceCalcExcercise.dll
+C:\Users\JerryLin\Downloads\HW3.01Excercise\HW3.01Excercise\AnvilTotalPriceCalcExcercise\bin\Debug\AnvilTotalPriceCalcExcercise.pdb
+C:\Users\JerryLin\Downloads\HW3.01Excercise\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.csproj.AssemblyReference.cache
+C:\Users\JerryLin\Downloads\HW3.01Excercise\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.csproj.CoreCompileInputs.cache
+C:\Users\JerryLin\Downloads\HW3.01Excercise\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.dll
+C:\Users\JerryLin\Downloads\HW3.01Excercise\HW3.01Excercise\AnvilTotalPriceCalcExcercise\obj\Debug\AnvilTotalPriceCalcExcercise.pdb

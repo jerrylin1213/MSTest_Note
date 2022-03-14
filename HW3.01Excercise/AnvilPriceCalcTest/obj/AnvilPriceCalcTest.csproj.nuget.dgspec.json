@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JerryLin\\Downloads\\HW3.01Excercise\\HW3.01Excercise\\AnvilPriceCalcTest\\AnvilPriceCalcTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JerryLin\\Downloads\\HW3.01Excercise\\HW3.01Excercise\\AnvilPriceCalcTest\\AnvilPriceCalcTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JerryLin\\Downloads\\HW3.01Excercise\\HW3.01Excercise\\AnvilPriceCalcTest\\AnvilPriceCalcTest.csproj",
+        "projectName": "AnvilPriceCalcTest",
+        "projectPath": "C:\\Users\\JerryLin\\Downloads\\HW3.01Excercise\\HW3.01Excercise\\AnvilPriceCalcTest\\AnvilPriceCalcTest.csproj",
+        "packagesPath": "C:\\Users\\JerryLin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JerryLin\\Downloads\\HW3.01Excercise\\HW3.01Excercise\\AnvilPriceCalcTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JerryLin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\JerryLin\\Downloads\\HW3.01Excercise\\HW3.01Excercise\\AnvilTotalPriceCalcExcercise\\AnvilTotalPriceCalcExcercise.csproj": {
+                "projectPath": "C:\\Users\\JerryLin\\Downloads\\HW3.01Excercise\\HW3.01Excercise\\AnvilTotalPriceCalcExcercise\\AnvilTotalPriceCalcExcercise.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JerryLin\\Downloads\\HW3.01Excercise\\HW3.01Excercise\\AnvilTotalPriceCalcExcercise\\AnvilTotalPriceCalcExcercise.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JerryLin\\Downloads\\HW3.01Excercise\\HW3.01Excercise\\AnvilTotalPriceCalcExcercise\\AnvilTotalPriceCalcExcercise.csproj",
+        "projectName": "AnvilTotalPriceCalcExcercise",
+        "projectPath": "C:\\Users\\JerryLin\\Downloads\\HW3.01Excercise\\HW3.01Excercise\\AnvilTotalPriceCalcExcercise\\AnvilTotalPriceCalcExcercise.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}
